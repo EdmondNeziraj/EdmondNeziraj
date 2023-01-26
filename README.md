@@ -1,4 +1,4 @@
-Hi 👋 My name is Edmond
+Hi 👋 my name is Edmond
 =======================
 
 Software Engineer
