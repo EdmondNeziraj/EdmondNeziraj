@@ -6,8 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [edmondneziraj10@gmail.com](mailto:edmondneziraj10@gmail.com)
-* 🚀  I'm currently working on [soccer game scheduling app](http://tenplusone.herokuapp.com)
-* 🧠  I'm learning ReactJs
+* 🚀  I'm currently working on [soccer game scheduling app](http://433.edmondneziraj.com)
 * 🤝  I'm open to collaborating on projects
 * ⚡  I'm into skiing and playing soccer
 
