@@ -42,4 +42,4 @@ Software Engineer
 
 </div>
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=EdmondNeziraj'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=USER_NAME'></p>
