@@ -4,7 +4,6 @@ Hi 👋 my name is Edmond
 Software Engineer
 -----------------
 
-* 🌍  I'm based in New York City
 * ✉️  You can contact me at [edmondneziraj10@gmail.com](mailto:edmondneziraj10@gmail.com)
 * 🤝  I'm open to collaborating on projects
 * ⚡  I'm into skiing and playing soccer
@@ -32,3 +31,15 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/EdmondNeziraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edmondneziraj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<div align='center'><h2>GitHub Stats 📈</h2>
+
+![YOUR NAME Github Stats](https://github-readme-stats.vercel.app/api?username=USER_NAME&show_icons=true&theme=midnight-purple&text_color=BD632F) 
+
+<h2>Most Used Language</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USER_NAME&theme=midnight-purple&langs_count=5&text_color=BD632F)
+
+</div>
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=USER_NAME'></p>
